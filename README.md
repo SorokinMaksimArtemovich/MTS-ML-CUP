@@ -8,6 +8,6 @@ public score: 1,706045271
   <li>by using word-to-vec for url_hosts and categorical features</li>
   <li>and by counting distribution of target variables on urls and other features</li>
 </ul>
-<br>And assemble it to 3 datasets (by hand selection, by feature importance and only simple features)
+And assemble it to 3 datasets (by hand selection, by feature importance and only simple features)
 <br>In "models" I use DaNet with avereging in 10 folds and with avereging on 3 datasets
 <br>In this compitition parsing of sites didn't affect on score
