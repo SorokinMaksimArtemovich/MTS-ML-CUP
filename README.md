@@ -1,4 +1,5 @@
 # solution for MTS-ML-CUP (https://ods.ai/competitions/mtsmlcup/leaderboard/private) - 49th place
+![alt text](https://github.com/SorokinMaksimArtemovich/MTS-ML-CUP/blob/main/private_score.png)
 public score: 1,706045271
 <br>private score: 1,7061886202
 <br>In "data preprocessing" directory I generate features:
